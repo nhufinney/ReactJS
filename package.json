@@ -1,0 +1,32 @@
+{
+  "name": "react-js",
+  "version": "1.0.0",
+  "description": "A React project and its tools",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhufinney/ReactJS.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Bundle",
+    "Bubble",
+    "Webpack"
+  ],
+  "author": "Nhu Finney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhufinney/ReactJS/issues"
+  },
+  "homepage": "https://github.com/nhufinney/ReactJS#readme"
+}
